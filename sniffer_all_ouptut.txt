@@ -1,0 +1,88 @@
+fwhite@fwhite-Aspire-V5-552G:~$ sudo python3 sniffer_all.py
+Ethernet Source: 40:00:40:11:39:80
+Ethernet Destination: 45:00:00:38:02:33
+Type Code: 32512
+
+Total Length: 32512
+Protocol: 53
+Source Address: 255.55.90.254
+Destination Address: 1.0.0.1
+
+Protocol 53 is not UDP
+
+Ethernet Source: 40:00:40:11:39:7f
+Ethernet Destination: 45:00:00:38:02:34
+Type Code: 32512
+
+Total Length: 32512
+Protocol: 53
+Source Address: 255.55.150.52
+Destination Address: 1.0.0.1
+
+Protocol 53 is not UDP
+
+Ethernet Source: 00:00:40:11:28:2f
+Ethernet Destination: 45:00:00:89:ce:3b
+Type Code: 49320
+
+Total Length: 49320
+Protocol: 49
+Source Address: 39.22.27.136
+Destination Address: 129.128.0.1
+
+Protocol 49 is not UDP
+
+Ethernet Source: 40:00:40:11:5c:57
+Ethernet Destination: 45:00:00:89:df:0a
+Type Code: 32512
+
+Total Length: 32512
+Protocol: 141
+Source Address: 255.136.150.52
+Destination Address: 129.128.0.1
+
+Protocol 141 is not UDP
+
+Ethernet Source: 00:00:40:11:28:6f
+Ethernet Destination: 45:00:00:48:ce:3c
+Type Code: 49320
+
+Total Length: 49320
+Protocol: 65
+Source Address: 75.159.134.128
+Destination Address: 129.128.0.1
+
+Protocol 65 is not UDP
+
+Ethernet Source: 40:00:40:11:5c:96
+Ethernet Destination: 45:00:00:48:df:0c
+Type Code: 32512
+
+Total Length: 32512
+Protocol: 141
+Source Address: 255.71.90.254
+Destination Address: 129.128.0.1
+
+Protocol 141 is not UDP
+
+Ethernet Source: 40:00:38:11:e2:ab
+Ethernet Destination: 45:18:00:4c:aa:eb
+Type Code: 44359
+
+Total Length: 49320
+Protocol: 123
+Source Address: 247.34.36.1
+Destination Address: 7.237.0.0
+
+Protocol 123 is not UDP
+
+Ethernet Source: 40:00:3a:11:b2:2a
+Ethernet Destination: 45:00:00:4c:37:0e
+Type Code: 52235
+
+Total Length: 49320
+Protocol: 123
+Source Address: 73.160.36.2
+Destination Address: 7.236.0.0
+
+Protocol 123 is not UDP
